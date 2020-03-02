@@ -12,7 +12,7 @@
 
 ### Ejercicio de introducción a Vigilancia Tecnológica utilizando Docker y Python.
 
-El presente proyeto de introducción a herramientas de vigilancia tecnológica implementado en pythonhace enfasis en la extracción de información de páginas Web, en el caso de aplicación se utilizó la página correspondientea a la bolsa de valores de Madrid, teniendo como resultado el atributo "ultimo". Por lo tantro, se crea un contenedor en el entorno Docker, con el fin de dar por entendido el funcionamiento y aplicabilidad dentro del proyecto codigo que despliega aplicaciones dentro de contenedores software.
+El presente proyeto de introducción a herramientas de vigilancia tecnológica implementado en python hace enfasis en la extracción de información de páginas Web, en el caso de aplicación se referenció la página correspondientea a la bolsa de valores de Madrid, teniendo como resultado el atributo "ultimo". Por lo tantro, se crea un contenedor en el entorno Docker, con el fin de dar por entendido el funcionamiento y aplicabilidad dentro del proyecto codigo que despliega aplicaciones dentro de contenedores software.
 
 ### El contenido del proyecto desribe:
 
